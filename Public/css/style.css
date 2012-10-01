@@ -2,11 +2,14 @@
 #title
 {
 	text-align: center;
-	width: 200px;
-	background: #FFCC00;
+	margin-left: auto;
+	margin-right: auto;
+	width: 380px;
+	height: 80px;
+	background: #3B2D38;
 	color: white;
 	border-style: dotted;
-	padding: 30px 30px 30px 30px;
+	padding: 2px 2px 2px 2px;
 
 } 
 
@@ -14,7 +17,7 @@
 {
 	text-align: left;
 	width: 600px;
-	background: #5CB8E6;
+	background: #CFBE27;
 	color: white;
 	border-style: dotted;
 	padding: 35px 30px 30px 30px;
@@ -27,14 +30,14 @@
 	width: 600px;
 	color: white;
 	border-style: dotted;
-	background: #19D175;
+	background: #F27435;
 	padding: 35px 30px 30px 30px;
 	margin-left: 50px
 }
 
 #Lang
 {
-	background: #E61669;
+	background: #F02475;
 	color: white;
 	border-style: dotted;
 	padding: 35px 30px 30px 30px;
