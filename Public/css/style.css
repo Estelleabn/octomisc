@@ -1,0 +1,43 @@
+
+#title
+{
+	text-align: center;
+	width: 200px;
+	background: #FFCC00;
+	color: white;
+	border-style: dotted;
+	padding: 30px 30px 30px 30px;
+
+} 
+
+#formation
+{
+	text-align: left;
+	width: 600px;
+	background: #5CB8E6;
+	color: white;
+	border-style: dotted;
+	padding: 35px 30px 30px 30px;
+	margin-left: 50px;
+} 
+
+
+#Exp
+{
+	width: 600px;
+	color: white;
+	border-style: dotted;
+	background: #19D175;
+	padding: 35px 30px 30px 30px;
+	margin-left: 50px
+}
+
+#Lang
+{
+	background: #E61669;
+	color: white;
+	border-style: dotted;
+	padding: 35px 30px 30px 30px;
+	width: 600px;
+	margin-left: 50px;
+} 
