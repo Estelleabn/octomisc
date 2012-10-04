@@ -44,3 +44,18 @@
 	width: 600px;
 	margin-left: 50px;
 } 
+
+table {
+	width: 600px;
+	margin-left: 50px;
+}
+th {
+	border-radius: 10px 10px 0px 0px;
+	background: #3B2D38;
+	color: white;
+	padding: 10px 10px 10px 10px;
+}
+td {
+	padding: 10px 10px 10px 10px;
+	background: white;
+}
