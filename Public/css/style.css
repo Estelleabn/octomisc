@@ -51,11 +51,13 @@ table {
 }
 th {
 	border-radius: 10px 10px 0px 0px;
-	background: #3B2D38;
+	background: #CFBE27;
 	color: white;
-	padding: 10px 10px 10px 10px;
+	padding: 2px 10px 2px 10px;
+	border: none;
 }
 td {
 	padding: 10px 10px 10px 10px;
 	background: white;
+	border: none;
 }
