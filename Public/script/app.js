@@ -1,9 +1,14 @@
 function check_name(name){
 	if( name == "Gabriel"){
-		console.log("Yeah, great !");
+		return "Yeah, great !";
 	}else if( name == "Clément"){
-		console.log("MAZEL TOV ! We found Clément !");
+		return "MAZEL TOV ! We found Clément !";
 	}else{
-		console.log("True ! " + name + " is different from Gabriel and Clément !");
-		}
+		var res "True ! " + name + " is different from Gabriel and Clément !";
+		return res;
+	}
 } 
+
+$(document).ready(function(){
+	alert(check_name("Gabriel"));
+});
